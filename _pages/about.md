@@ -41,7 +41,7 @@ In *The 34th International Conference on Software Engineering and Knowledge Engi
 
 - [**TIFS**] [NoLeaks: Differentially Private Causal Discovery Under Functional Causal Model](https://ieeexplore.ieee.org/abstract/document/9798874).  
 Pingchuan Ma, **Zhenlan Ji**, Qi Pang, Shuai Wang.  
-In *IEEE IEEE Transactions on Information Forensics and Security*, 2022. 
+In *IEEE Transactions on Information Forensics and Security*, 2022. 
 
 
 ## Academic Services
