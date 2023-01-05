@@ -14,15 +14,15 @@ redirect_from:
 
 I am currently a Second-year PhD student at Department of Computer Science and Engineering, 
 Hong Kong University of Science and Technology, supervised by [Prof. Shuai Wang](https://www.cse.ust.hk/~shuaiw/).
-Before joining HKUST, I received my B.Eng. degree from Nanjing University, Nanjing, China in 2021.
+Before joining HKUST, I received my B.S. degree from Nanjing University, Nanjing, China in 2021.
 
 My research currently focuses on the application of **Causality Analysis**, and my research interests include 
 **Software Engineering** and **Security**.
 
 ## Education
 
-- **Ph.D. in Computer Science and Engineering**, The Hong Kong University of Science and Technology. *Sept 2021 - Now*
-- **B.S. in Computer Science and Technology (FinTech)**, Nanjing University. <br> *Sept 2017 - June 2021*
+- **Ph.D.** in Computer Science and Engineering, The Hong Kong University of Science and Technology. *Sept 2021 - Now*
+- **B.S.** in Computer Science and Technology (FinTech), Nanjing University. <br> *Sept 2017 - June 2021*
 
 
 
