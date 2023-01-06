@@ -31,7 +31,7 @@ My research currently focuses on the application of **Causality Analysis**, and 
 - [**ICSE**] [CC: Causality-Aware Coverage Criterion for Deep Neural Networks]().  
 **Zhenlan JI**, Pingchuan Ma, Yuanyuan Yuan, Shuai Wang.  
 In *45th IEEE/ACM International Conference on Software Engineering*, 2023.  
-[[code]](https://github.com/Qi-Pang/MDPFuzz)
+[[code]](https://github.com/ZhenlanJi/DL_CC)
 
 - [**SEKE**] [Unlearnable Examples: Protecting Open-Source Software from Unauthorized Neural Code Learning](https://doi.org/10.18293/SEKE2022-066).  
 **Zhenlan JI**, Pingchuan Ma, Shuai Wang.  
