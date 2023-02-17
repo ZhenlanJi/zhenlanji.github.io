@@ -12,7 +12,7 @@ redirect_from:
 
 *<font size="2"><u>Updated on 5 Jan. 2023</u></font>*
 
-I am currently a Second-year PhD student at Department of Computer Science and Engineering, 
+I am currently a second-year Ph.D. student at Department of Computer Science and Engineering, 
 Hong Kong University of Science and Technology, supervised by [Prof. Shuai Wang](https://www.cse.ust.hk/~shuaiw/).
 Before joining HKUST, I received my B.S. degree from Nanjing University, Nanjing, China in 2021.
 
@@ -38,7 +38,6 @@ In *45th IEEE/ACM International Conference on Software Engineering*, 2023.
 In *The 34th International Conference on Software Engineering and Knowledge Engineering*, 2022.  
 [[code]](https://github.com/ZhenlanJi/Unlearnable_Code)
 
-
 - [**TIFS**] [NoLeaks: Differentially Private Causal Discovery Under Functional Causal Model](https://ieeexplore.ieee.org/abstract/document/9798874).  
 Pingchuan Ma, **Zhenlan Ji**, Qi Pang, Shuai Wang.  
 In *IEEE Transactions on Information Forensics and Security*, 2022. 
@@ -53,8 +52,9 @@ Artifact Evaluation Committee:
 External Reviewer:
 
 - 2022: ASE, AsiaCCS
-- 2023: ISSTA
+- 2023: ISSTA, USENIX Security, FSE
 
 ## Teaching
 
 - **Teaching Assistant**, *COMP2011 - Programming with C++*, HKUST, 2022 Fall.
+- **Teaching Assistant**, *COMP3633 - Competitive Programming in Cybersecurity II*, HKUST, 2023 Spring.
