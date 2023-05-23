@@ -10,14 +10,19 @@ redirect_from:
 
 ***Welcome to Zhenlan's homepage!***
 
-*<font size="2"><u>Updated on 5 Jan. 2023</u></font>*
+*<font size="2"><u>Updated on 23 May. 2023</u></font>*
 
-I am currently a second-year Ph.D. student at Department of Computer Science and Engineering, 
-Hong Kong University of Science and Technology, supervised by [Prof. Shuai Wang](https://www.cse.ust.hk/~shuaiw/).
-Before joining HKUST, I received my B.S. degree from Nanjing University, Nanjing, China in 2021.
-
-My research currently focuses on the application of **Causality Analysis**, and my research interests include 
-**Software Engineering** and **Security**.
+Zhenlan Ji is currently a Ph.D. student at the Department of Computer
+Science and Engineering, Hong Kong University of Science and Technology,
+under the supervision of [Prof. Shuai
+Wang](https://www.cse.ust.hk/~shuaiw/). In 2021, he received his Bachelor's
+degree in Computer Science and Technology from Nanjing University, Nanjing,
+China. 
+<!-- He has published papers at top-tier software engineering and security
+venues like ICSE, focusing on the application of causality analysis.  -->
+His research interests include **Software Engineering**, **Security**, and
+**Deep Learning**, with a focus on the application of **Causality
+Analysis**.
 
 ## Education
 
@@ -25,6 +30,13 @@ My research currently focuses on the application of **Causality Analysis**, and 
 - **B.S.** in Computer Science and Technology (FinTech), Nanjing University. <br> *Sept 2017 - June 2021*
 
 
+## Preprint
+
+- [**Arxiv**] [Causality-Aided Trade-off Analysis for Machine Learning Fairness](https://arxiv.org/abs/2305.13057).  
+**Zhenlan JI**, Pingchuan Ma, Shuai Wang, Yanhui Li.  
+
+- [**Arxiv**] [PerfCE: Performance Debugging on Databases with Chaos Engineering-Enhanced Causality Analysis](https://arxiv.org/abs/2207.08369).  
+**Zhenlan JI**, Pingchuan Ma, Shuai Wang.  
 
 ## Publications
 
@@ -48,11 +60,12 @@ In *IEEE Transactions on Information Forensics and Security*, 2022.
 Artifact Evaluation Committee:  
 
 - 2022: ISSTA
+- 2023: ISSTA
 
 External Reviewer:
 
 - 2022: ASE, AsiaCCS
-- 2023: ISSTA, USENIX Security, FSE
+- 2023: ISSTA, USENIX Security, FSE, CCS, ASE
 
 ## Teaching
 
