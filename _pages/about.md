@@ -10,7 +10,7 @@ redirect_from:
 
 ***Welcome to Zhenlan's homepage!***
 
-*<font size="2"><u>Updated on 23 May. 2023</u></font>*
+*<font size="2"><u>Updated on 18 July. 2023</u></font>*
 
 Zhenlan Ji is currently a Ph.D. student at the Department of Computer
 Science and Engineering, Hong Kong University of Science and Technology,
