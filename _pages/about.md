@@ -30,17 +30,22 @@ Analysis**.
 - **B.S.** in Computer Science and Technology (FinTech), Nanjing University. <br> *Sept 2017 - June 2021*
 
 
-## Preprint
-
-- [**Arxiv**] [Causality-Aided Trade-off Analysis for Machine Learning Fairness](https://arxiv.org/abs/2305.13057).  
-**Zhenlan JI**, Pingchuan Ma, Shuai Wang, Yanhui Li.  
-
-- [**Arxiv**] [PerfCE: Performance Debugging on Databases with Chaos Engineering-Enhanced Causality Analysis](https://arxiv.org/abs/2207.08369).  
-**Zhenlan JI**, Pingchuan Ma, Shuai Wang.  
-
 ## Publications
 
-- [**ICSE**] [CC: Causality-Aware Coverage Criterion for Deep Neural Networks]().  
+- [**ASE**] [Causality-Aided Trade-off Analysis for Machine Learning Fairness]().  
+**Zhenlan JI**, Pingchuan Ma, Shuai Wang, Yanhui Li.  
+In *38th IEEE/ACM International Conference on Automated Software Engineering*, 2023.  
+[[preprint]](https://arxiv.org/abs/2305.13057)
+[[code]](https://github.com/ZhenlanJi/CTF)
+
+- [**ASE**] [PerfCE: Performance Debugging on Databases with Chaos Engineering-Enhanced Causality Analysis]().  
+**Zhenlan JI**, Pingchuan Ma, Shuai Wang.  
+In *38th IEEE/ACM International Conference on Automated Software Engineering*, 2023.  
+[[preprint]](https://arxiv.org/abs/2207.08369)
+[[code]](https://github.com/ZhenlanJi/PerfCE)
+[[documentation]](http://perfce.ignorelist.com/)
+
+- [**ICSE**] [CC: Causality-Aware Coverage Criterion for Deep Neural Networks](https://doi.org/10.1109/ICSE48619.2023.00153).  
 **Zhenlan JI**, Pingchuan Ma, Yuanyuan Yuan, Shuai Wang.  
 In *45th IEEE/ACM International Conference on Software Engineering*, 2023.  
 [[code]](https://github.com/ZhenlanJi/DL_CC)
