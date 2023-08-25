@@ -10,7 +10,7 @@ redirect_from:
 
 ***Welcome to Zhenlan's homepage!***
 
-*<font size="2"><u>Updated on 18 July. 2023</u></font>*
+*<font size="2"><u>Updated on 25 Aug. 2023</u></font>*
 
 Zhenlan Ji is currently a Ph.D. student at the Department of Computer
 Science and Engineering, Hong Kong University of Science and Technology,
@@ -32,22 +32,26 @@ Analysis**.
 
 ## Publications
 
+- [**ICSE**] [Enabling Runtime Verification of Causal Discovery Algorithms with Automated Conditional Independence Reasoning](https://doi.org/10.1109/ICSE48619.2023.00153).  
+Pingchuan Ma, **Zhenlan Ji**, Peisen Yao, Shuai Wang, and Kui Ren.  
+In *The 46th IEEE/ACM International Conference on Software Engineering*, 2024.  
+
 - [**ASE**] [Causality-Aided Trade-off Analysis for Machine Learning Fairness]().  
 **Zhenlan JI**, Pingchuan Ma, Shuai Wang, Yanhui Li.  
-In *38th IEEE/ACM International Conference on Automated Software Engineering*, 2023.  
+In *The 38th IEEE/ACM International Conference on Automated Software Engineering*, 2023.  
 [[preprint]](https://arxiv.org/abs/2305.13057)
 [[code]](https://github.com/ZhenlanJi/CTF)
 
 - [**ASE**] [PerfCE: Performance Debugging on Databases with Chaos Engineering-Enhanced Causality Analysis]().  
 **Zhenlan JI**, Pingchuan Ma, Shuai Wang.  
-In *38th IEEE/ACM International Conference on Automated Software Engineering*, 2023.  
+In *The 38th IEEE/ACM International Conference on Automated Software Engineering*, 2023.  
 [[preprint]](https://arxiv.org/abs/2207.08369)
 [[code]](https://github.com/ZhenlanJi/PerfCE)
 [[documentation]](http://perfce.ignorelist.com/)
 
 - [**ICSE**] [CC: Causality-Aware Coverage Criterion for Deep Neural Networks](https://doi.org/10.1109/ICSE48619.2023.00153).  
 **Zhenlan JI**, Pingchuan Ma, Yuanyuan Yuan, Shuai Wang.  
-In *45th IEEE/ACM International Conference on Software Engineering*, 2023.  
+In *The 45th IEEE/ACM International Conference on Software Engineering*, 2023.  
 [[code]](https://github.com/ZhenlanJi/DL_CC)
 
 - [**SEKE**] [Unlearnable Examples: Protecting Open-Source Software from Unauthorized Neural Code Learning](https://doi.org/10.18293/SEKE2022-066).  
