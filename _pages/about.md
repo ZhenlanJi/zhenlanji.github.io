@@ -10,7 +10,7 @@ redirect_from:
 
 ***Welcome to Zhenlan's homepage!***
 
-*<font size="2"><u>Updated on 11 Dec. 2023</u></font>*
+*<font size="2"><u>Updated on 31 Dec. 2023</u></font>*
 
 Zhenlan Ji is currently a Ph.D. student at the Department of Computer
 Science and Engineering, Hong Kong University of Science and Technology,
@@ -32,17 +32,18 @@ Analysis**.
 
 ## Publications
 
-- [**ICSE**] [Enabling Runtime Verification of Causal Discovery Algorithms with Automated Conditional Independence Reasoning](https://doi.org/10.1109/ICSE48619.2023.00153).  
+- [**ICSE**] [Enabling Runtime Verification of Causal Discovery Algorithms with Automated Conditional Independence Reasoning]().  
 Pingchuan Ma, **Zhenlan Ji**, Peisen Yao, Shuai Wang, and Kui Ren.  
 In *The 46th IEEE/ACM International Conference on Software Engineering*, 2024.  
+[[preprint]](https://doi.org/10.48550/arXiv.2309.05264)
 
-- [**ASE**] [Causality-Aided Trade-off Analysis for Machine Learning Fairness]().  
+- [**ASE**] [Causality-Aided Trade-off Analysis for Machine Learning Fairness](https://doi.org/10.1109/ASE56229.2023.00105).  
 **Zhenlan JI**, Pingchuan Ma, Shuai Wang, Yanhui Li.  
 In *The 38th IEEE/ACM International Conference on Automated Software Engineering*, 2023.  
 [[preprint]](https://arxiv.org/abs/2305.13057)
 [[code]](https://github.com/ZhenlanJi/CTF)
 
-- [**ASE**] [PerfCE: Performance Debugging on Databases with Chaos Engineering-Enhanced Causality Analysis]().  
+- [**ASE**] [PerfCE: Performance Debugging on Databases with Chaos Engineering-Enhanced Causality Analysis](https://doi.org/10.1109/ASE56229.2023.00106).  
 **Zhenlan JI**, Pingchuan Ma, Shuai Wang.  
 In *The 38th IEEE/ACM International Conference on Automated Software Engineering*, 2023.  
 [[preprint]](https://arxiv.org/abs/2207.08369)
@@ -59,7 +60,7 @@ In *The 45th IEEE/ACM International Conference on Software Engineering*, 2023.
 In *The 34th International Conference on Software Engineering and Knowledge Engineering*, 2022.  
 [[code]](https://github.com/ZhenlanJi/Unlearnable_Code)
 
-- [**TIFS**] [NoLeaks: Differentially Private Causal Discovery Under Functional Causal Model](https://ieeexplore.ieee.org/abstract/document/9798874).  
+- [**TIFS**] [NoLeaks: Differentially Private Causal Discovery Under Functional Causal Model](https://doi.org/10.1109/TIFS.2022.3184263).  
 Pingchuan Ma, **Zhenlan Ji**, Qi Pang, Shuai Wang.  
 In *IEEE Transactions on Information Forensics and Security*, 2022. 
 
@@ -76,11 +77,13 @@ Artifact Evaluation Committee:
 
 - 2022: ISSTA
 - 2023: ISSTA, CCS
+- 2024: ICSE
 
 External Reviewer:
 
 - 2022: ASE, AsiaCCS
 - 2023: ISSTA, USENIX Security, FSE, CCS, ASE
+- 2024: ISSTA
 
 ## Teaching
 
