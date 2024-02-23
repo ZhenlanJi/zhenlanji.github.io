@@ -10,9 +10,9 @@ redirect_from:
 
 ***Welcome to Zhenlan's homepage!***
 
-*<font size="2"><u>Updated on 31 Dec. 2023</u></font>*
+*<font size="2"><u>Updated on 23 Feb. 2024</u></font>*
 
-Zhenlan Ji is currently a Ph.D. student at the Department of Computer
+Zhenlan Ji is a third-year Ph.D. candidate at the Department of Computer
 Science and Engineering, Hong Kong University of Science and Technology,
 under the supervision of [Prof. Shuai
 Wang](https://www.cse.ust.hk/~shuaiw/). In 2021, he received his Bachelor's
@@ -83,7 +83,7 @@ External Reviewer:
 
 - 2022: ASE, AsiaCCS
 - 2023: ISSTA, USENIX Security, FSE, CCS, ASE
-- 2024: ISSTA
+- 2024: ISSTA, S&P
 
 ## Teaching
 
