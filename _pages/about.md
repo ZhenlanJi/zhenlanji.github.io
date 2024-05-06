@@ -10,7 +10,7 @@ redirect_from:
 
 ***Welcome to Zhenlan's homepage!***
 
-*<font size="2"><u>Updated on 23 Feb. 2024</u></font>*
+*<font size="2"><u>Updated on 6 May. 2024</u></font>*
 
 Zhenlan Ji is a third-year Ph.D. candidate at the Department of Computer
 Science and Engineering, Hong Kong University of Science and Technology,
@@ -67,6 +67,9 @@ In *IEEE Transactions on Information Forensics and Security*, 2022.
 
 ## Preprint
 
+- [**Arxiv**] [Testing and Understanding Erroneous Planning in LLM Agents through Synthesized User Inputs](https://arxiv.org/abs/2404.17833).  
+**Zhenlan JI**, Daoyuan Wu, Pingchuan Ma, Zongjie Li, Shuai Wang.  
+
 - [**Arxiv**] [Benchmarking and Explaining Large Language Model-based Code Generation: A Causality-Centric Approach](https://arxiv.org/abs/2310.06680).  
 **Zhenlan JI**, Pingchuan Ma, Zongjie Li, Shuai Wang.  
 
@@ -83,7 +86,9 @@ External Reviewer:
 
 - 2022: ASE, AsiaCCS
 - 2023: ISSTA, USENIX Security, FSE, CCS, ASE
-- 2024: ISSTA, S&P
+- 2024: ISSTA, S&P, USENIX Security
+- 2025: NDSS
+
 
 ## Teaching
 
