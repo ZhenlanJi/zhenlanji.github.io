@@ -10,7 +10,7 @@ redirect_from:
 
 ***Welcome to Zhenlan's homepage!***
 
-*<font size="2"><u>Updated on 6 May. 2024</u></font>*
+*<font size="2"><u>Updated on 1 June. 2024</u></font>*
 
 Zhenlan Ji is a third-year Ph.D. candidate at the Department of Computer
 Science and Engineering, Hong Kong University of Science and Technology,
@@ -21,8 +21,7 @@ China.
 <!-- He has published papers at top-tier software engineering and security
 venues like ICSE, focusing on the application of causality analysis.  -->
 His research interests include **Software Engineering**, **Security**, and
-**Deep Learning**, with a focus on the application of **Causality
-Analysis**.
+**Deep Learning**, with a focus on **Causality** and **LLM-based Agents**.
 
 ## Education
 
