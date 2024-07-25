@@ -10,7 +10,7 @@ redirect_from:
 
 ***Welcome to Zhenlan's homepage!***
 
-*<font size="2"><u>Updated on 1 June. 2024</u></font>*
+*<font size="2"><u>Updated on 25 July. 2024</u></font>*
 
 Zhenlan Ji is a third-year Ph.D. candidate at the Department of Computer
 Science and Engineering, Hong Kong University of Science and Technology,
@@ -20,8 +20,8 @@ degree in Computer Science and Technology from Nanjing University, Nanjing,
 China. 
 <!-- He has published papers at top-tier software engineering and security
 venues like ICSE, focusing on the application of causality analysis.  -->
-His research interests include **Software Engineering**, **Security**, and
-**Deep Learning**, with a focus on **Causality** and **LLM-based Agents**.
+His research interests include **Software Engineering** and **Deep
+Learning**, with a focus on **Causality** and **LLM-based Agents**.
 
 ## Education
 
@@ -66,8 +66,15 @@ In *IEEE Transactions on Information Forensics and Security*, 2022.
 
 ## Preprint
 
+
 - [**Arxiv**] [Testing and Understanding Erroneous Planning in LLM Agents through Synthesized User Inputs](https://arxiv.org/abs/2404.17833).  
 **Zhenlan JI**, Daoyuan Wu, Pingchuan Ma, Zongjie Li, Shuai Wang.  
+
+- [**Arxiv**] [SelfDefend: LLMs Can Defend Themselves against Jailbreaking in a Practical Manner](https://arxiv.org/abs/2406.05498).  
+Xunguang Wang, Daoyuan Wu, **Zhenlan Ji**, Zongjie Li, Pingchuan Ma, Shuai Wang, Yingjiu Li, Yang Liu, Ning Liu, Juergen Rahmel.  
+
+- [**Arxiv**] [InstructTA: Instruction-Tuned Targeted Attack for Large Vision-Language Models](https://arxiv.org/abs/2312.01886).  
+Xunguang Wang, **Zhenlan Ji**, Pingchuan Ma, Zongjie Li, Shuai Wang.  
 
 - [**Arxiv**] [Benchmarking and Explaining Large Language Model-based Code Generation: A Causality-Centric Approach](https://arxiv.org/abs/2310.06680).  
 **Zhenlan JI**, Pingchuan Ma, Zongjie Li, Shuai Wang.  
