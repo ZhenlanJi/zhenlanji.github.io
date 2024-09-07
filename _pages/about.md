@@ -10,7 +10,7 @@ redirect_from:
 
 ***Welcome to Zhenlan's homepage!***
 
-*<font size="2"><u>Updated on 25 July. 2024</u></font>*
+*<font size="2"><u>Updated on 7 Sept. 2024</u></font>*
 
 Zhenlan Ji is a third-year Ph.D. candidate at the Department of Computer
 Science and Engineering, Hong Kong University of Science and Technology,
@@ -82,6 +82,14 @@ Xunguang Wang, **Zhenlan Ji**, Pingchuan Ma, Zongjie Li, Shuai Wang.
 
 ## Academic Services
 
+Reviewer: 
+
+- 2025: ICLR
+
+Shadow Program Committee:
+
+- 2025: ICSE
+
 Artifact Evaluation Committee:  
 
 - 2022: ISSTA
@@ -95,10 +103,15 @@ External Reviewer:
 - 2024: ISSTA, S&P, USENIX Security
 - 2025: NDSS
 
+Publicity Chair:
+
+- 2024: AISTA@ISSRE 2024
+
 
 ## Teaching
 
 - **Teaching Assistant**, *COMP2011 - Programming with C++*, HKUST, 2022 Fall.
 - **Teaching Assistant**, *COMP3633 - Competitive Programming in Cybersecurity II*, HKUST, 2023 Spring.
+- **Teaching Assistant**, *COMP2633 - Competitive Programming in Cybersecurity I*, HKUST, 2024 Fall.
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=-mKrzPDoreIcPTv_2g0dcIg-DZqjcnN_ov0wF7OVPd4&cl=ffffff&w=a"></script>
