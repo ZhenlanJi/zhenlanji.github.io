@@ -10,7 +10,7 @@ redirect_from:
 
 ***Welcome to Zhenlan's homepage!***
 
-*<font size="2"><u>Updated on 10 Nov. 2024</u></font>*
+*<font size="2"><u>Updated on 31 Mar. 2025</u></font>*
 
 Zhenlan Ji is a fourth-year Ph.D. candidate at the Department of Computer
 Science and Engineering, Hong Kong University of Science and Technology,
@@ -23,6 +23,10 @@ venues like ICSE, focusing on the application of causality analysis.  -->
 His research interests include **Software Engineering** and **Deep
 Learning**, with a focus on **Causality** and **LLM-based Agents**.
 
+Starting from Feb. 2025, he is taking a short-term visit to the
+Momentum Lab at the University of Tokyo, Japan, under the supervision of
+[Prof. Lei Ma](https://www.malei.org/).
+
 ## Education
 
 - **Ph.D.** in Computer Science and Engineering, The Hong Kong University of Science and Technology. *Sept 2021 - Now*
@@ -31,10 +35,27 @@ Learning**, with a focus on **Causality** and **LLM-based Agents**.
 
 ## Publications
 
-- [**ICSE**] [Enabling Runtime Verification of Causal Discovery Algorithms with Automated Conditional Independence Reasoning]().  
+- [**ISSTA**] [Causality-Aided Evaluation and Explanation of Large Language Model-based Code Generation]().  
+**Zhenlan JI**, Pingchuan Ma, Zongjie Li, Zhaoyu Wang, Shuai Wang.  
+In *The 34th ACM SIGSOFT International Symposium on Software Testing and Analysis*, 2025.  
+[[preprint]](https://arxiv.org/abs/2310.06680)
+
+- [**TOSEM**] [Reeq: Testing and Mitigating Ethically Inconsistent Suggestions of Large Language Models with Reflective Equilibrium](https://doi.org/10.1145/3722554).  
+Pingchuan Ma, Zhaoyu Wang, Zongjie Li, **Zhenlan Ji**, Ao Sun, Juergen Rahmel, and Shuai Wang.  
+In *ACM Transactions on Software Engineering and Methodology*, 2025.  
+
+- [**USENIX**] [SelfDefend: LLMs Can Defend Themselves against Jailbreaking in a Practical Manner]().  
+Xunguang Wang, Daoyuan Wu, **Zhenlan Ji**, Zongjie Li, Pingchuan Ma, Shuai Wang, Yingjiu Li, Yang Liu, Ning Liu, Juergen Rahmel.  
+In *The 34th USENIX Security Symposium*, 2025.  
+[[preprint]](https://arxiv.org/abs/2305.13057)
+
+- [**ICSE**] [Testing and Understanding Deviation Behaviors in FHE-hardened Machine Learning Models.](https://doi.ieeecomputersociety.org/10.1109/ICSE55347.2025.00107).  
+Yiteng Peng, Daoyuan Wu, Zhibo Liu, Dongwei Xiao, **Zhenlan Ji**, Juergen Rahmel, and Shuai Wang.  
+In *The 47th IEEE/ACM International Conference on Software Engineering*, 2025.  
+
+- [**ICSE**] [Enabling Runtime Verification of Causal Discovery Algorithms with Automated Conditional Independence Reasoning](https://doi.org/10.1145/3597503.3623348).  
 Pingchuan Ma, **Zhenlan Ji**, Peisen Yao, Shuai Wang, and Kui Ren.  
 In *The 46th IEEE/ACM International Conference on Software Engineering*, 2024.  
-[[preprint]](https://doi.org/10.48550/arXiv.2309.05264)
 
 - [**ASE**] [Causality-Aided Trade-off Analysis for Machine Learning Fairness](https://doi.org/10.1109/ASE56229.2023.00105).  
 **Zhenlan JI**, Pingchuan Ma, Shuai Wang, Yanhui Li.  
@@ -70,14 +91,10 @@ In *IEEE Transactions on Information Forensics and Security*, 2022.
 - [**Arxiv**] [Testing and Understanding Erroneous Planning in LLM Agents through Synthesized User Inputs](https://arxiv.org/abs/2404.17833).  
 **Zhenlan JI**, Daoyuan Wu, Pingchuan Ma, Zongjie Li, Shuai Wang.  
 
-- [**Arxiv**] [SelfDefend: LLMs Can Defend Themselves against Jailbreaking in a Practical Manner](https://arxiv.org/abs/2406.05498).  
-Xunguang Wang, Daoyuan Wu, **Zhenlan Ji**, Zongjie Li, Pingchuan Ma, Shuai Wang, Yingjiu Li, Yang Liu, Ning Liu, Juergen Rahmel.  
-
 - [**Arxiv**] [InstructTA: Instruction-Tuned Targeted Attack for Large Vision-Language Models](https://arxiv.org/abs/2312.01886).  
 Xunguang Wang, **Zhenlan Ji**, Pingchuan Ma, Zongjie Li, Shuai Wang.  
 
-- [**Arxiv**] [Benchmarking and Explaining Large Language Model-based Code Generation: A Causality-Centric Approach](https://arxiv.org/abs/2310.06680).  
-**Zhenlan JI**, Pingchuan Ma, Zongjie Li, Shuai Wang.  
+
 
 
 ## Academic Services
