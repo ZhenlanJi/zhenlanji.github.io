@@ -10,7 +10,7 @@ redirect_from:
 
 ***Welcome to Zhenlan's homepage!***
 
-*<font size="2"><u>Updated on 31 Mar. 2025</u></font>*
+*<font size="2"><u>Updated on 21 Jul. 2025</u></font>*
 
 Zhenlan Ji is a fourth-year Ph.D. candidate at the Department of Computer
 Science and Engineering, Hong Kong University of Science and Technology,
@@ -29,7 +29,7 @@ Momentum Lab at the University of Tokyo, Japan, under the supervision of
 
 ## Education
 
-- **Ph.D.** in Computer Science and Engineering, The Hong Kong University of Science and Technology. *Sept 2021 - Now*
+- **Ph.D.** in Computer Science and Engineering, The Hong Kong University of Science and Technology. <br> *Sept 2021 - Now*
 - **B.S.** in Computer Science and Technology (FinTech), Nanjing University. <br> *Sept 2017 - June 2021*
 
 
@@ -101,7 +101,7 @@ Xunguang Wang, **Zhenlan Ji**, Pingchuan Ma, Zongjie Li, Shuai Wang.
 
 Reviewer: 
 
-- 2025: ICLR
+- 2025: ICLR, JSS
 
 Shadow Program Committee:
 
@@ -118,7 +118,7 @@ External Reviewer:
 - 2022: ASE, AsiaCCS
 - 2023: ISSTA, USENIX Security, FSE, CCS, ASE
 - 2024: ISSTA, S&P, USENIX Security
-- 2025: NDSS, ACL
+- 2025: NDSS, ACL, ASE
 
 Publicity Chair:
 
