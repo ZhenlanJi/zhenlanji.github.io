@@ -10,7 +10,7 @@ redirect_from:
 
 ***Welcome to Zhenlan's homepage!***
 
-*<font size="2"><u>Updated on 21 Jul. 2025</u></font>*
+*<font size="2"><u>Updated on 8 Oct. 2025</u></font>*
 
 Zhenlan Ji is a fourth-year Ph.D. candidate at the Department of Computer
 Science and Engineering, Hong Kong University of Science and Technology,
@@ -34,6 +34,19 @@ Momentum Lab at the University of Tokyo, Japan, under the supervision of
 
 
 ## Publications
+
+
+- [**SIGMOD**] [Privacy-preserving and Verifiable Causal Prescriptive Analytics]().  
+Zhaoyu Wang, Pingchuan Ma, Zhantong Xue, Yanbo Dai, **Zhenlan Ji**, and Shuai Wang.  
+In *ACM SIGMOD International Conference on Management of Data*, 2026.  
+
+- [**SIGMOD**] [Guardrail: Automated Integrity Constraint Synthesis From Noisy Data]().  
+Pingchuan Ma, Zhaoyu Wang, **Zhenlan Ji**, Zongjie Li, Ao Sun, and Shuai Wang.  
+In *ACM SIGMOD International Conference on Management of Data*, 2026.  
+
+- [**CCS**] [The Phantom Menace in Crypto-Based PET-Hardened Deep Learning Models: Invisible Configuration-Induced Attacks]().  
+Yiteng Peng, Dongwei Xiao, Zhibo Liu, **Zhenlan Ji**, Daoyuan Wu, Shuai Wang, and Juergen Rahmel.  
+In *ACM SIGSAC Conference on Computer and Communications Security*, 2025.  
 
 - [**ISSTA**] [Causality-Aided Evaluation and Explanation of Large Language Model-based Code Generation]().  
 **Zhenlan JI**, Pingchuan Ma, Zongjie Li, Zhaoyu Wang, Shuai Wang.  
@@ -87,6 +100,26 @@ In *IEEE Transactions on Information Forensics and Security*, 2022.
 
 ## Preprint
 
+- [**Arxiv**] [Digging Into the Internal: Causality-Based Analysis of LLM Function Calling](https://arxiv.org/abs/2509.16268).  
+**Zhenlan JI**, Daoyuan Wu, Pingchuan Ma, Zongjie Li, Shuai Wang.  
+
+- [**Arxiv**] [Disabling Self-Correction in Retrieval-Augmented Generation via Stealthy Retriever Poisoning](https://arxiv.org/abs/2508.20083).  
+**Zhenlan Ji**, Daoyuan Wu, Wenxuan Wang, Pingchuan Ma, Shuai Wang and Lei Ma.  
+
+- [**Arxiv**] [Evaluating LLMs on Sequential API Call Through Automated Test Generation](https://arxiv.org/abs/2507.09481).  
+Yuheng Huang, Da Song, **Zhenlan Ji**, Shuai Wang, and Lei Ma.  
+
+- [**Arxiv**] [SoK: Evaluating Jailbreak Guardrails for Large Language Models](https://arxiv.org/abs/2506.1059).  
+Xunguang Wang, **Zhenlan Ji**, Wenxuan Wang, Zongjie Li, Daoyuan Wu, and Shuai Wang.  
+
+- [**Arxiv**] [Ip Leakage Attacks Targeting LLM-Based Multi-Agent Systems](https://arxiv.org/abs/2505.12442).  
+Liwen Wang, Wenxuan Wang, Shuai Wang, Zongjie Li, **Zhenlan Ji**, Zongyi Lyu, Daoyuan Wu, and Shing-Chi Cheung.  
+
+- [**Arxiv**] [NAMET: Robust Massive Model Editing via Noise-Aware Memory Optimization](https://arxiv.org/abs/2505.11876).  
+Yanbo Dai, **Zhenlan Ji**, Zongjie Li, and Shuai Wang.  
+
+- [**Arxiv**] [Stshield: Single-Token Sentinel for Real-Time Jailbreak Detection in Large Language Models](https://arxiv.org/abs/2503.17932).  
+Xunguang Wang, Wenxuan Wang, **Zhenlan Ji**, Zongjie Li, Pingchuan Ma, Daoyuan Wu, and Shuai Wang.  
 
 - [**Arxiv**] [Testing and Understanding Erroneous Planning in LLM Agents through Synthesized User Inputs](https://arxiv.org/abs/2404.17833).  
 **Zhenlan JI**, Daoyuan Wu, Pingchuan Ma, Zongjie Li, Shuai Wang.  
@@ -102,6 +135,10 @@ Xunguang Wang, **Zhenlan Ji**, Pingchuan Ma, Zongjie Li, Shuai Wang.
 Reviewer: 
 
 - 2025: ICLR, JSS
+
+Program Committee:
+
+- 2025: AAAI
 
 Shadow Program Committee:
 
