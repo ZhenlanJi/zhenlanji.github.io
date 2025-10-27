@@ -10,7 +10,7 @@ redirect_from:
 
 ***Welcome to Zhenlan's homepage!***
 
-*<font size="2"><u>Updated on 8 Oct. 2025</u></font>*
+*<font size="2"><u>Updated on 27 Oct. 2025</u></font>*
 
 Zhenlan Ji is a fourth-year Ph.D. candidate at the Department of Computer
 Science and Engineering, Hong Kong University of Science and Technology,
@@ -104,7 +104,7 @@ In *IEEE Transactions on Information Forensics and Security*, 2022.
 **Zhenlan JI**, Daoyuan Wu, Pingchuan Ma, Zongjie Li, Shuai Wang.  
 
 - [**Arxiv**] [Disabling Self-Correction in Retrieval-Augmented Generation via Stealthy Retriever Poisoning](https://arxiv.org/abs/2508.20083).  
-**Zhenlan Ji**, Daoyuan Wu, Wenxuan Wang, Pingchuan Ma, Shuai Wang and Lei Ma.  
+Yanbo Dai, **Zhenlan Ji**, Zongjie Li, Kuan Li, Shuai Wang.  
 
 - [**Arxiv**] [Evaluating LLMs on Sequential API Call Through Automated Test Generation](https://arxiv.org/abs/2507.09481).  
 Yuheng Huang, Da Song, **Zhenlan Ji**, Shuai Wang, and Lei Ma.  
