@@ -10,7 +10,7 @@ redirect_from:
 
 ***Welcome to Zhenlan's homepage!***
 
-*<font size="2"><u>Updated on 27 Oct. 2025</u></font>*
+*<font size="2"><u>Updated on 28 Nov. 2025</u></font>*
 
 Zhenlan Ji is a fourth-year Ph.D. candidate at the Department of Computer
 Science and Engineering, Hong Kong University of Science and Technology,
@@ -35,6 +35,9 @@ Momentum Lab at the University of Tokyo, Japan, under the supervision of
 
 ## Publications
 
+- [**S&P**] [SoK: Evaluating Jailbreak Guardrails for Large Language Models]().  
+Xunguang Wang, **Zhenlan Ji**, Wenxuan Wang, Zongjie Li, Daoyuan Wu, and Shuai Wang.  
+In *IEEE Symposium on Security and Privacy*, 2026.  
 
 - [**SIGMOD**] [Privacy-preserving and Verifiable Causal Prescriptive Analytics]().  
 Zhaoyu Wang, Pingchuan Ma, Zhantong Xue, Yanbo Dai, **Zhenlan Ji**, and Shuai Wang.  
@@ -48,7 +51,7 @@ In *ACM SIGMOD International Conference on Management of Data*, 2026.
 Yiteng Peng, Dongwei Xiao, Zhibo Liu, **Zhenlan Ji**, Daoyuan Wu, Shuai Wang, and Juergen Rahmel.  
 In *ACM SIGSAC Conference on Computer and Communications Security*, 2025.  
 
-- [**ISSTA**] [Causality-Aided Evaluation and Explanation of Large Language Model-based Code Generation]().  
+- [**ISSTA**] [Causality-Aided Evaluation and Explanation of Large Language Model-based Code Generation](https://dl.acm.org/doi/10.1145/3728938).  
 **Zhenlan JI**, Pingchuan Ma, Zongjie Li, Zhaoyu Wang, Shuai Wang.  
 In *The 34th ACM SIGSOFT International Symposium on Software Testing and Analysis*, 2025.  
 [[preprint]](https://arxiv.org/abs/2310.06680)
