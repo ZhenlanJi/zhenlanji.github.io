@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Zhenlan Ji"
   avatar           : "jzl.png"
-  bio              : "Ph.D. student at Department of Computer Science and Engineering, HKUST"
-  location         : "Hong Kong, China"
+  bio              : "Ph.D. at Department of Computer Science and Engineering, HKUST"
+  location         : "China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://scholar.google.com/citations?user=-VQxD1UAAAAJ"
-  email            : zjiae@cse.ust.hk
+  email            : zhenlanji123@gmail.com
   researchgate     : #"https://researchgate.net/profile/Zhenlan-Ji"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "zhenlan-j-6b2136241"
+  linkedin         : 
   orcid            : "https://orcid.org/0000-0003-3167-0480"
   pinterest        :
   soundcloud       :

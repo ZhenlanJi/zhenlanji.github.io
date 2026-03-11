@@ -10,30 +10,38 @@ redirect_from:
 
 ***Welcome to Zhenlan's homepage!***
 
-*<font size="2"><u>Updated on 28 Nov. 2025</u></font>*
+*<font size="2"><u>Updated on 11 Mar. 2026</u></font>*
 
-Zhenlan Ji is a fourth-year Ph.D. candidate at the Department of Computer
-Science and Engineering, Hong Kong University of Science and Technology,
-under the supervision of [Prof. Shuai
-Wang](https://www.cse.ust.hk/~shuaiw/). In 2021, he received his Bachelor's
-degree in Computer Science and Technology from Nanjing University, Nanjing,
-China. 
-<!-- He has published papers at top-tier software engineering and security
-venues like ICSE, focusing on the application of causality analysis.  -->
-His research interests include **Software Engineering** and **Deep
-Learning**, with a focus on **Causality** and **LLM-based Agents**.
+Zhenlan Ji will join [SDlab](https://sdlab.naist.jp/) at Nara Institute of
+Science and Technology (NAIST), Japan, as an assistant professor starting
+from April 2026. Before that, he received his Ph.D. degree, advised by
+[Prof. Shuai Wang](https://www.cse.ust.hk/~shuaiw/), at the Hong Kong
+University of Science and Technology (HKUST). In 2021, he received his
+Bachelor's degree in Computer Science and Technology from Nanjing
+University, Nanjing, China. His research interests include
+**Software Engineering** and **Deep Learning**, with a focus on
+**Causality** and **LLM-based Agents**.
 
-Starting from Feb. 2025, he is taking a short-term visit to the
+<!-- Starting from Feb. 2025, he is taking a short-term visit to the
 Momentum Lab at the University of Tokyo, Japan, under the supervision of
-[Prof. Lei Ma](https://www.malei.org/).
+[Prof. Lei Ma](https://www.malei.org/). -->
 
-## Education
+## Education & Experience
 
-- **Ph.D.** in Computer Science and Engineering, The Hong Kong University of Science and Technology. <br> *Sept 2021 - Now*
+- **Ph.D.** in Computer Science and Engineering, The Hong Kong University of Science and Technology. <br> *Sept 2021 - Jan 2026*
+- **Visiting Research Student**, Momentum Lab, The University of Tokyo. <br> *Feb 2025 - Sep 2025*
 - **B.S.** in Computer Science and Technology (FinTech), Nanjing University. <br> *Sept 2017 - June 2021*
 
 
 ## Publications
+
+- [**ICLR**] [NAMET: Robust Massive Model Editing via Noise-Aware Memory Optimization]().  
+Yanbo Dai, **Zhenlan Ji**, Zongjie Li, and Shuai Wang.  
+In *International Conference on Learning Representations*, 2026.  
+
+- [**USENIX**] [MASLeak: Investigating and Exposing IP Leakage Vulnerabilities in Multi-Agent Systems.]().  
+Liwen Wang, Wenxuan Wang, Shuai Wang, Zongjie Li, **Zhenlan Ji**, Zongyi Lyu, Daoyuan Wu, and Shing-Chi Cheung.  
+In *USENIX Security Symposium*, 2026.  
 
 - [**S&P**] [SoK: Evaluating Jailbreak Guardrails for Large Language Models]().  
 Xunguang Wang, **Zhenlan Ji**, Wenxuan Wang, Zongjie Li, Daoyuan Wu, and Shuai Wang.  
@@ -115,12 +123,6 @@ Yuheng Huang, Da Song, **Zhenlan Ji**, Shuai Wang, and Lei Ma.
 - [**Arxiv**] [SoK: Evaluating Jailbreak Guardrails for Large Language Models](https://arxiv.org/abs/2506.1059).  
 Xunguang Wang, **Zhenlan Ji**, Wenxuan Wang, Zongjie Li, Daoyuan Wu, and Shuai Wang.  
 
-- [**Arxiv**] [Ip Leakage Attacks Targeting LLM-Based Multi-Agent Systems](https://arxiv.org/abs/2505.12442).  
-Liwen Wang, Wenxuan Wang, Shuai Wang, Zongjie Li, **Zhenlan Ji**, Zongyi Lyu, Daoyuan Wu, and Shing-Chi Cheung.  
-
-- [**Arxiv**] [NAMET: Robust Massive Model Editing via Noise-Aware Memory Optimization](https://arxiv.org/abs/2505.11876).  
-Yanbo Dai, **Zhenlan Ji**, Zongjie Li, and Shuai Wang.  
-
 - [**Arxiv**] [Stshield: Single-Token Sentinel for Real-Time Jailbreak Detection in Large Language Models](https://arxiv.org/abs/2503.17932).  
 Xunguang Wang, Wenxuan Wang, **Zhenlan Ji**, Zongjie Li, Pingchuan Ma, Daoyuan Wu, and Shuai Wang.  
 
@@ -135,13 +137,16 @@ Xunguang Wang, **Zhenlan Ji**, Pingchuan Ma, Zongjie Li, Shuai Wang.
 
 ## Academic Services
 
-Reviewer: 
-
-- 2025: ICLR, JSS
 
 Program Committee:
 
+- 2026: CCS
 - 2025: AAAI
+
+Reviewer: 
+
+- 2026: ICLR, npj AI
+- 2025: ICLR, JSS, TNNLS
 
 Shadow Program Committee:
 
@@ -152,13 +157,6 @@ Artifact Evaluation Committee:
 - 2022: ISSTA
 - 2023: ISSTA, CCS
 - 2024: ICSE
-
-External Reviewer:
-
-- 2022: ASE, AsiaCCS
-- 2023: ISSTA, USENIX Security, FSE, CCS, ASE
-- 2024: ISSTA, S&P, USENIX Security
-- 2025: NDSS, ACL, ASE
 
 Publicity Chair:
 
