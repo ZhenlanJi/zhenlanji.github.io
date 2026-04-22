@@ -12,15 +12,14 @@ redirect_from:
 
 *<font size="2"><u>Updated on 11 Mar. 2026</u></font>*
 
-Zhenlan Ji will join [SDlab](https://sdlab.naist.jp/) at Nara Institute of
-Science and Technology (NAIST), Japan, as an assistant professor starting
-from April 2026. Before that, he received his Ph.D. degree, advised by
-[Prof. Shuai Wang](https://www.cse.ust.hk/~shuaiw/), at the Hong Kong
-University of Science and Technology (HKUST). In 2021, he received his
-Bachelor's degree in Computer Science and Technology from Nanjing
-University, Nanjing, China. His research interests include
-**Software Engineering** and **Deep Learning**, with a focus on
-**Causality** and **LLM-based Agents**.
+Zhenlan Ji is an Assistant Professor in [SDlab](https://sdlab.naist.jp/) at
+Nara Institute of Science and Technology (NAIST), Japan. Before that, he
+received his Ph.D. degree, advised by [Prof. Shuai
+Wang](https://www.cse.ust.hk/~shuaiw/), at the Hong Kong University of
+Science and Technology (HKUST). In 2021, he received his Bachelor's degree
+in Computer Science and Technology from Nanjing University, Nanjing, China.
+His research interests include **Software Engineering** and **Deep
+Learning**, with a focus on **Causality** and **LLM-based Agents**.
 
 <!-- Starting from Feb. 2025, he is taking a short-term visit to the
 Momentum Lab at the University of Tokyo, Japan, under the supervision of
@@ -34,6 +33,11 @@ Momentum Lab at the University of Tokyo, Japan, under the supervision of
 
 
 ## Publications
+
+- [**ISSTA**] [Function Calling as a Flexible LLM Defense Add-On: Capability and Application Exploration]().  
+**Zhenlan JI**, Daoyuan Wu, Wenxuan Wang, Pingchuan Ma, Shuai Wang, Lei Ma, and Juergen Rahmel.  
+In *The 35th ACM SIGSOFT International Symposium on Software Testing and Analysis*, 2026.  
+
 
 - [**ICLR**] [NAMET: Robust Massive Model Editing via Noise-Aware Memory Optimization]().  
 Yanbo Dai, **Zhenlan Ji**, Zongjie Li, and Shuai Wang.  

@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zhenlan Ji"
 title_separator          : "-"
 name                     : &name "Zhenlan Ji"
-description              : &description "Ph.D. student at Department of Computer Science and Engineering, HKUST"
+description              : &description "Assistant Professor at NAIST, with an ambition to conduct interesting and unique research to foster the development of software engineering and AI."
 url                      : https://zhenlanji.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ZhenlanJi/zhenlanji.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Zhenlan Ji"
   avatar           : "jzl.png"
-  bio              : "Ph.D. at Department of Computer Science and Engineering, HKUST"
-  location         : "China"
+  bio              : "Assistant Professor at the Division of Information Science, Graduate School of Science and Technology, Nara Institute of Science and Technology (NAIST)."
+  location         : "Nara, Japan"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://scholar.google.com/citations?user=-VQxD1UAAAAJ"
-  email            : zhenlanji123@gmail.com
+  email            : ji.zhenlan@naist.ac.jp
   researchgate     : #"https://researchgate.net/profile/Zhenlan-Ji"
   uri              :
   bitbucket        :
