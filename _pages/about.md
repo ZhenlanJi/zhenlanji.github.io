@@ -36,7 +36,7 @@ Momentum Lab at the University of Tokyo, Japan, under the supervision of
 
 - [**CCS**] [DisarmRAG: Stealthy Retriever Poisoning to Disable Self-Correction in Retrieval-Augmented Generation]().  
 Yanbo Dai, **Zhenlan Ji**, Zongjie Li, Kuan Li, Shuai Wang.  
-In *ACM SIGSAC Conference on Computer and Communications Security*, 2026.
+In *ACM SIGSAC Conference on Computer and Communications Security*, 2026.  
 [[preprint]](https://arxiv.org/abs/2508.20083)
 
 - [**ISSTA**] [Function Calling as a Flexible LLM Defense Add-On: Capability and Application Exploration]().  
