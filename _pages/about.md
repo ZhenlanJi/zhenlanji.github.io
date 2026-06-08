@@ -10,7 +10,7 @@ redirect_from:
 
 ***Welcome to Zhenlan's homepage!***
 
-*<font size="2"><u>Updated on 11 Mar. 2026</u></font>*
+*<font size="2"><u>Updated on 8 Jun. 2026</u></font>*
 
 Zhenlan Ji is an Assistant Professor in [SDlab](https://sdlab.naist.jp/) at
 Nara Institute of Science and Technology (NAIST), Japan. Before that, he
@@ -34,32 +34,37 @@ Momentum Lab at the University of Tokyo, Japan, under the supervision of
 
 ## Publications
 
+- [**CCS**] [DisarmRAG: Stealthy Retriever Poisoning to Disable Self-Correction in Retrieval-Augmented Generation]().  
+Yanbo Dai, **Zhenlan Ji**, Zongjie Li, Kuan Li, Shuai Wang.  
+In *ACM SIGSAC Conference on Computer and Communications Security*, 2026.
+[[preprint]](https://arxiv.org/abs/2508.20083)
+
 - [**ISSTA**] [Function Calling as a Flexible LLM Defense Add-On: Capability and Application Exploration]().  
 **Zhenlan JI**, Daoyuan Wu, Wenxuan Wang, Pingchuan Ma, Shuai Wang, Lei Ma, and Juergen Rahmel.  
 In *The 35th ACM SIGSOFT International Symposium on Software Testing and Analysis*, 2026.  
-
 
 - [**ICLR**] [NAMET: Robust Massive Model Editing via Noise-Aware Memory Optimization]().  
 Yanbo Dai, **Zhenlan Ji**, Zongjie Li, and Shuai Wang.  
 In *International Conference on Learning Representations*, 2026.  
 
-- [**USENIX**] [MASLeak: Investigating and Exposing IP Leakage Vulnerabilities in Multi-Agent Systems.]().  
+- [**USENIX**] [MASLeak: Investigating and Exposing IP Leakage Vulnerabilities in Multi-Agent Systems.](https://www.usenix.org/conference/usenixsecurity26/presentation/wang-liwen).  
 Liwen Wang, Wenxuan Wang, Shuai Wang, Zongjie Li, **Zhenlan Ji**, Zongyi Lyu, Daoyuan Wu, and Shing-Chi Cheung.  
 In *USENIX Security Symposium*, 2026.  
 
 - [**S&P**] [SoK: Evaluating Jailbreak Guardrails for Large Language Models]().  
 Xunguang Wang, **Zhenlan Ji**, Wenxuan Wang, Zongjie Li, Daoyuan Wu, and Shuai Wang.  
 In *IEEE Symposium on Security and Privacy*, 2026.  
+[[preprint]](https://arxiv.org/abs/2506.10597)
 
-- [**SIGMOD**] [Privacy-preserving and Verifiable Causal Prescriptive Analytics]().  
+- [**SIGMOD**] [Privacy-preserving and Verifiable Causal Prescriptive Analytics](https://doi.org/10.1145/3769815).  
 Zhaoyu Wang, Pingchuan Ma, Zhantong Xue, Yanbo Dai, **Zhenlan Ji**, and Shuai Wang.  
 In *ACM SIGMOD International Conference on Management of Data*, 2026.  
 
-- [**SIGMOD**] [Guardrail: Automated Integrity Constraint Synthesis From Noisy Data]().  
+- [**SIGMOD**] [Guardrail: Automated Integrity Constraint Synthesis From Noisy Data](https://doi.org/10.1145/3749166).  
 Pingchuan Ma, Zhaoyu Wang, **Zhenlan Ji**, Zongjie Li, Ao Sun, and Shuai Wang.  
 In *ACM SIGMOD International Conference on Management of Data*, 2026.  
 
-- [**CCS**] [The Phantom Menace in Crypto-Based PET-Hardened Deep Learning Models: Invisible Configuration-Induced Attacks]().  
+- [**CCS**] [The Phantom Menace in Crypto-Based PET-Hardened Deep Learning Models: Invisible Configuration-Induced Attacks](https://doi.org/10.1145/3719027.3765107).  
 Yiteng Peng, Dongwei Xiao, Zhibo Liu, **Zhenlan Ji**, Daoyuan Wu, Shuai Wang, and Juergen Rahmel.  
 In *ACM SIGSAC Conference on Computer and Communications Security*, 2025.  
 
@@ -118,14 +123,10 @@ In *IEEE Transactions on Information Forensics and Security*, 2022.
 - [**Arxiv**] [Digging Into the Internal: Causality-Based Analysis of LLM Function Calling](https://arxiv.org/abs/2509.16268).  
 **Zhenlan JI**, Daoyuan Wu, Pingchuan Ma, Zongjie Li, Shuai Wang.  
 
-- [**Arxiv**] [Disabling Self-Correction in Retrieval-Augmented Generation via Stealthy Retriever Poisoning](https://arxiv.org/abs/2508.20083).  
-Yanbo Dai, **Zhenlan Ji**, Zongjie Li, Kuan Li, Shuai Wang.  
 
 - [**Arxiv**] [Evaluating LLMs on Sequential API Call Through Automated Test Generation](https://arxiv.org/abs/2507.09481).  
 Yuheng Huang, Da Song, **Zhenlan Ji**, Shuai Wang, and Lei Ma.  
 
-- [**Arxiv**] [SoK: Evaluating Jailbreak Guardrails for Large Language Models](https://arxiv.org/abs/2506.1059).  
-Xunguang Wang, **Zhenlan Ji**, Wenxuan Wang, Zongjie Li, Daoyuan Wu, and Shuai Wang.  
 
 - [**Arxiv**] [Stshield: Single-Token Sentinel for Real-Time Jailbreak Detection in Large Language Models](https://arxiv.org/abs/2503.17932).  
 Xunguang Wang, Wenxuan Wang, **Zhenlan Ji**, Zongjie Li, Pingchuan Ma, Daoyuan Wu, and Shuai Wang.  
@@ -144,12 +145,13 @@ Xunguang Wang, **Zhenlan Ji**, Pingchuan Ma, Zongjie Li, Shuai Wang.
 
 Program Committee:
 
+- 2027: IEEE S&P, FSE
 - 2026: CCS
 - 2025: AAAI
 
 Reviewer: 
 
-- 2026: ICLR, npj AI
+- 2026: ICLR, npj AI, NeurIPS
 - 2025: ICLR, JSS, TNNLS
 
 Shadow Program Committee:
