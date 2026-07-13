@@ -10,7 +10,7 @@ redirect_from:
 
 ***Welcome to Zhenlan's homepage!***
 
-*<font size="2"><u>Updated on 8 Jun. 2026</u></font>*
+*<font size="2"><u>Updated on 13 Jul. 2026</u></font>*
 
 Zhenlan Ji is an Assistant Professor in [SDlab](https://sdlab.naist.jp/) at
 Nara Institute of Science and Technology (NAIST), Japan. Before that, he
@@ -19,7 +19,7 @@ Wang](https://www.cse.ust.hk/~shuaiw/), at the Hong Kong University of
 Science and Technology (HKUST). In 2021, he received his Bachelor's degree
 in Computer Science and Technology from Nanjing University, Nanjing, China.
 His research interests include **Software Engineering** and **Deep
-Learning**, with a focus on **Causality** and **LLM-based Agents**.
+Learning**, with a focus on **Causality** and **Trustworthy AI**.
 
 <!-- Starting from Feb. 2025, he is taking a short-term visit to the
 Momentum Lab at the University of Tokyo, Japan, under the supervision of
@@ -34,10 +34,15 @@ Momentum Lab at the University of Tokyo, Japan, under the supervision of
 
 ## Publications
 
-- [**CCS**] [DisarmRAG: Stealthy Retriever Poisoning to Disable Self-Correction in Retrieval-Augmented Generation]().  
+<!-- - [**CCS**] [DisarmRAG: Stealthy Retriever Poisoning to Disable Self-Correction in Retrieval-Augmented Generation]().  
 Yanbo Dai, **Zhenlan Ji**, Zongjie Li, Kuan Li, Shuai Wang.  
 In *ACM SIGSAC Conference on Computer and Communications Security*, 2026.  
-[[preprint]](https://arxiv.org/abs/2508.20083)
+[[preprint]](https://arxiv.org/abs/2508.20083) -->
+
+
+- [**ISSTA**] [CAM: A Causality-based Analysis Framework for Multi-Agent Code Generation Systems]().  
+Zongyi Lyu, **Zhenlan Ji**, Songqiang Chen, Liwen Wang, Yuheng Huang, Shuai Wang, and Shing-Chi Cheung.  
+In *The 35th ACM SIGSOFT International Symposium on Software Testing and Analysis*, 2026.  
 
 - [**ISSTA**] [Function Calling as a Flexible LLM Defense Add-On: Capability and Application Exploration]().  
 **Zhenlan JI**, Daoyuan Wu, Wenxuan Wang, Pingchuan Ma, Shuai Wang, Lei Ma, and Juergen Rahmel.  
@@ -118,7 +123,7 @@ Pingchuan Ma, **Zhenlan Ji**, Qi Pang, Shuai Wang.
 In *IEEE Transactions on Information Forensics and Security*, 2022. 
 
 
-## Preprint
+<!-- ## Preprint
 
 - [**Arxiv**] [Digging Into the Internal: Causality-Based Analysis of LLM Function Calling](https://arxiv.org/abs/2509.16268).  
 **Zhenlan JI**, Daoyuan Wu, Pingchuan Ma, Zongjie Li, Shuai Wang.  
@@ -135,7 +140,7 @@ Xunguang Wang, Wenxuan Wang, **Zhenlan Ji**, Zongjie Li, Pingchuan Ma, Daoyuan W
 **Zhenlan JI**, Daoyuan Wu, Pingchuan Ma, Zongjie Li, Shuai Wang.  
 
 - [**Arxiv**] [InstructTA: Instruction-Tuned Targeted Attack for Large Vision-Language Models](https://arxiv.org/abs/2312.01886).  
-Xunguang Wang, **Zhenlan Ji**, Pingchuan Ma, Zongjie Li, Shuai Wang.  
+Xunguang Wang, **Zhenlan Ji**, Pingchuan Ma, Zongjie Li, Shuai Wang.   -->
 
 
 
