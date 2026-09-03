@@ -10,7 +10,7 @@ redirect_from:
 
 ***Welcome to Zhenlan's homepage!***
 
-*<font size="2"><u>Updated on 13 Jul. 2026</u></font>*
+*<font size="2"><u>Updated on 3 Sep. 2026</u></font>*
 
 Zhenlan Ji is an Assistant Professor in [SDlab](https://sdlab.naist.jp/) at
 Nara Institute of Science and Technology (NAIST), Japan. Before that, he
@@ -34,10 +34,10 @@ Momentum Lab at the University of Tokyo, Japan, under the supervision of
 
 ## Publications
 
-<!-- - [**CCS**] [DisarmRAG: Stealthy Retriever Poisoning to Disable Self-Correction in Retrieval-Augmented Generation]().  
+- [**CCS**] [DisarmRAG: Stealthy Retriever Poisoning to Disable Self-Correction in Retrieval-Augmented Generation]().  
 Yanbo Dai, **Zhenlan Ji**, Zongjie Li, Kuan Li, Shuai Wang.  
 In *ACM SIGSAC Conference on Computer and Communications Security*, 2026.  
-[[preprint]](https://arxiv.org/abs/2508.20083) -->
+[[preprint]](https://arxiv.org/abs/2508.20083)
 
 
 - [**ISSTA**] [CAM: A Causality-based Analysis Framework for Multi-Agent Code Generation Systems]().  
@@ -123,7 +123,7 @@ Pingchuan Ma, **Zhenlan Ji**, Qi Pang, Shuai Wang.
 In *IEEE Transactions on Information Forensics and Security*, 2022. 
 
 
-<!-- ## Preprint
+## Preprint
 
 - [**Arxiv**] [Digging Into the Internal: Causality-Based Analysis of LLM Function Calling](https://arxiv.org/abs/2509.16268).  
 **Zhenlan JI**, Daoyuan Wu, Pingchuan Ma, Zongjie Li, Shuai Wang.  
@@ -139,7 +139,7 @@ Xunguang Wang, Wenxuan Wang, **Zhenlan Ji**, Zongjie Li, Pingchuan Ma, Daoyuan W
 - [**Arxiv**] [Testing and Understanding Erroneous Planning in LLM Agents through Synthesized User Inputs](https://arxiv.org/abs/2404.17833).  
 **Zhenlan JI**, Daoyuan Wu, Pingchuan Ma, Zongjie Li, Shuai Wang.  
 
-- [**Arxiv**] [InstructTA: Instruction-Tuned Targeted Attack for Large Vision-Language Models](https://arxiv.org/abs/2312.01886).  
+<!-- - [**Arxiv**] [InstructTA: Instruction-Tuned Targeted Attack for Large Vision-Language Models](https://arxiv.org/abs/2312.01886).  
 Xunguang Wang, **Zhenlan Ji**, Pingchuan Ma, Zongjie Li, Shuai Wang.   -->
 
 
@@ -150,13 +150,13 @@ Xunguang Wang, **Zhenlan Ji**, Pingchuan Ma, Zongjie Li, Shuai Wang.   -->
 
 Program Committee:
 
-- 2027: IEEE S&P, FSE
+- 2027: IEEE S&P, FSE, USENIX Security, SaTML, AAAI
 - 2026: CCS
 - 2025: AAAI
 
 Reviewer: 
 
-- 2026: ICLR, npj AI, NeurIPS
+- 2026: ICLR, npj AI, NeurIPS, TNNLS, EMSE
 - 2025: ICLR, JSS, TNNLS
 
 Shadow Program Committee:
@@ -174,10 +174,9 @@ Publicity Chair:
 - 2024: AISTA@ISSRE 2024
 
 
-## Teaching
+<!-- ## Teaching
 
 - **Teaching Assistant**, *COMP2011 - Programming with C++*, HKUST, 2022 Fall.
 - **Teaching Assistant**, *COMP3633 - Competitive Programming in Cybersecurity II*, HKUST, 2023 Spring.
-- **Teaching Assistant**, *COMP2633 - Competitive Programming in Cybersecurity I*, HKUST, 2024 Fall.
+- **Teaching Assistant**, *COMP2633 - Competitive Programming in Cybersecurity I*, HKUST, 2024 Fall. -->
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=-mKrzPDoreIcPTv_2g0dcIg-DZqjcnN_ov0wF7OVPd4&cl=ffffff&w=a"></script>
